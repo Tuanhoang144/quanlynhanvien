@@ -1,0 +1,16 @@
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\bin\Debug\netcoreapp3.1\quanlysinhvien.exe
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\bin\Debug\netcoreapp3.1\quanlysinhvien.deps.json
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\bin\Debug\netcoreapp3.1\quanlysinhvien.runtimeconfig.json
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\bin\Debug\netcoreapp3.1\quanlysinhvien.runtimeconfig.dev.json
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\bin\Debug\netcoreapp3.1\quanlysinhvien.dll
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\bin\Debug\netcoreapp3.1\quanlysinhvien.pdb
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.csprojAssemblyReference.cache
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.Form1.resources
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.Properties.Resources.resources
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.csproj.GenerateResource.cache
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.AssemblyInfoInputs.cache
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.AssemblyInfo.cs
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.csproj.CoreCompileInputs.cache
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.dll
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.pdb
+D:\tai lieu\laptrinhtrucquan bt\bài tập qlsv\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.genruntimeconfig.cache
